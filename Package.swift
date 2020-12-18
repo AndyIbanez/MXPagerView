@@ -10,8 +10,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "MXPagerView",
-            path: "MXPagerView"
+			name: "MXPagerView"
         )
     ],
     swiftLanguageVersions: [.v5,.v4_2]
